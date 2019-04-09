@@ -228,10 +228,3 @@ if __name__ == '__main__':
     end = time.clock()
     print("堆排序           ", end - start)
     print("排序结果         ", list10 == list_true, '\n')
-
-
-
-
-
-
-
